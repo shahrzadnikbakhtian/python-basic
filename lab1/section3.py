@@ -6,7 +6,8 @@ for i in range(quantity):
     sum= sum + int(num)
 
 avg=sum/quantity
-print(f"this is the average: {avg}")
+avg_float= format(avg , ".2f")
+print(f"this is the average: {avg_float}")
 
 
     

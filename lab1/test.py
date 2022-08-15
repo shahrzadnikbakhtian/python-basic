@@ -1,2 +1,3 @@
-for i in range(3):
-   print("what is the " + str(i) + ". number?")
+avg=5.22222
+avg_float= format(avg , ".2f")
+print(avg_float)
