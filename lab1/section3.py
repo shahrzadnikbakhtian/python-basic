@@ -6,7 +6,7 @@ for i in range(quantity):
     sum= sum + int(num)
 
 avg=sum/quantity
-print(avg)
+print(f"this is the average: {avg}")
 
 
     
